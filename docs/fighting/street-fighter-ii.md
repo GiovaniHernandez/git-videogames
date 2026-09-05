@@ -2,3 +2,4 @@
 | ----------- | ----------- |
 | **Year** | 1991 |
 | **Developer** | Capcom |
+***aca hice un cambio***
